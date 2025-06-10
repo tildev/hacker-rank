@@ -1,4 +1,4 @@
-package migratorybirds;
+package challenges.migratorybirds;
 
 import java.io.*;
 import java.util.List;
