@@ -3,6 +3,7 @@ package challenges.bonappetit;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -33,6 +34,7 @@ class Result {
         } else {
             System.out.println(b - annaShouldPay);
         }
+        List<Integer> string = new ArrayList<>();
     }
 }
 
